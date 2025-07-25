@@ -18,19 +18,19 @@ Passionate about solving real-world problems through data, I constantly explore 
 
 **Programming & Query Languages:** Python, SQL
 
-**Machine Learning & Deep Learning:** Supervised & Unsupervised Learning, CNN, RNN, LSTM, Feature Engineering
+**Machine Learning & Deep Learning:** Supervised & Unsupervised Learning, Computer Vision, CNN, RNN, LSTM, Feature Engineering
 
 **Gen AI & LLMs:** LangChain, Hugging Face Transformers, RAG, Prompt Engineering, Gemini, OpenAI GPT 
 
 **Natural Language Processing (NLP):** Sentiment Analysis, Document Question Answering, , TF-IDF, Word2Vec
 
-**Libraries & Frameworks:** Scikit-learn, TensorFlow, Keras, Pandas, NumPy, Matplotlib, Seaborn
+**Libraries & Frameworks:** Opencv-python, Scikit-learn, TensorFlow, Keras, Pandas, NumPy, Matplotlib, Seaborn
 
 **Vector Databases & Big Data Tools:** FAISS, PySpark
 
 **Deployment & Web Technologies:** Streamlit, Flask, Jinja Templating, AWS
 
-**Tools & Platforms:** Jupyter Notebook, Google Colab, Git, Power BI VS Code 
+**Tools & Platforms:** Jupyter Notebook, Google Colab, Git, Power BI, VS Code 
 
 **Soft Skills:** Problem Solving, Critical Thinking, Collaboration, Communication, Adaptability
 
