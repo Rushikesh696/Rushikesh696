@@ -8,10 +8,16 @@
 
 ## 🚀 About Me
 
-I’m a curious and self-driven learner with a strong foundation in statistics, machine learning, and deep learning. I enjoy building end-to-end data solutions, from cleaning messy datasets to deploying machine learning models in production. Currently, I'm diving deeper into **Generative AI** and advanced NLP techniques.
-
-Passionate about solving real-world problems through data, I constantly explore new tools and technologies to sharpen my skills. I’ve worked on projects involving computer vision, time series analysis, and LLM-powered applications, and I enjoy contributing to open-source initiatives and sharing my learnings through blogs. My goal is to build intelligent, scalable, and impactful AI solutions that bridge the gap between research and real-world implementation.
-
+🌱 A curious and self-driven learner, always exploring new tools and technologies to grow every day  
+- 📊 Strong foundation in **Statistics, Machine Learning, and Deep Learning**  
+- 🤖 Currently diving deeper into **Generative AI** and advanced **NLP techniques**  
+- 🛠️ Hands-on experience building end-to-end solutions:  
+  - Cleaning and preprocessing messy datasets  
+  - Training and fine-tuning models (ML, DL, LLMs)  
+  - Deploying applications in production environments  
+- 📌 Project experience in **Computer Vision, Time Series Analysis, and LLM-powered apps**  
+- 🌍 Sharing knowledge through blogs and contributing to open-source communities  
+- 🚀 Passionate about building intelligent, scalable, and impactful AI solutions that bridge the gap between research and real-world implementation  
 ---
 
 ## 🛠️ Skills & Tools
