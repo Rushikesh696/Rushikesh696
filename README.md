@@ -12,9 +12,9 @@
 - 📊 Strong foundation in **Statistics, Machine Learning, and Deep Learning**  
 - 🤖 Currently diving deeper into **Generative AI** and advanced **NLP techniques**  
 - 🛠️ Hands-on experience building end-to-end solutions:  
-  - Cleaning and preprocessing messy datasets  
-  - Training and fine-tuning models (ML, DL, LLMs)  
-  - Deploying applications in production environments  
+- Cleaning and preprocessing messy datasets  
+- Training and fine-tuning models (ML, DL, LLMs)  
+- Deploying applications in production environments  
 - 📌 Project experience in **Computer Vision, Time Series Analysis, and LLM-powered apps**  
 - 🌍 Sharing knowledge through blogs and contributing to open-source communities  
 - 🚀 Passionate about building intelligent, scalable, and impactful AI solutions that bridge the gap between research and real-world implementation  
