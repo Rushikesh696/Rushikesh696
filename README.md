@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Rushikesh Chavan
 
-🎯 **Aspiring Data Scientist** | 📍 Pune, Maharashtra, India  
+🎯 **AI ML ENGINEER** | 📍 Pune, Maharashtra, India  
 🧠 Passionate about solving real-world problems with data and AI.
 
 ---
